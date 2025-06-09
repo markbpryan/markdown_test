@@ -9,3 +9,5 @@ hide:
 ```
 --8<-- "LICENSE"
 ```
+
+### FOOTER for page license.md

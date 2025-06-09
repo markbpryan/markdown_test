@@ -3,3 +3,5 @@
 *   **Rich Integration & Customization:** Seamlessly injects documentation into Markdown, supports cross-referencing across pages and sites, and offers extensive global and local configuration options for fine-tuning output.
 *   **Theming Capabilities:** Works with MkDocs themes, providing special support for the popular Material for MkDocs theme, allowing for visually appealing and consistent documentation.
 *   **Widely Adopted:** Used by numerous prominent open-source projects and organizations like FastAPI, Pydantic, Ansible, Google, and Microsoft, demonstrating its robustness and reliability.
+
+### FOOTER for page SUMMARY.md

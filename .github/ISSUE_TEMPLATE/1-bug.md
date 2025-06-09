@@ -59,3 +59,5 @@ PASTE MARKDOWN OUTPUT HERE
 <!-- Add any other relevant context about the problem here,
      like links to other issues or pull requests, screenshots, etc.
 -->
+
+### FOOTER for page 1-bug.md

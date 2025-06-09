@@ -5,3 +5,5 @@ hide:
 ---
 
 --8<-- "README.md"
+
+### FOOTER for page index.md

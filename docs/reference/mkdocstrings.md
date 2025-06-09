@@ -7,3 +7,5 @@ hide:
 # ::: mkdocstrings
     options:
         show_submodules: true
+
+### FOOTER for page mkdocstrings.md

@@ -65,3 +65,5 @@ If the major version increased, it's a good idea to consult the [changelog][] an
 [install-pip-ssh]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 [scopes]: https://docs.github.com/en/developers/apps/scopes-for-oauth-apps#available-scopes
 [terms of use]: ./index.md#terms
+
+### FOOTER for page installation.md

@@ -94,3 +94,5 @@ IMPORTANT: **Changed in version 0.15.**
 The CSS class used to always be `.highlight`, but now it depends on the configuration.
 
 Long story short, you probably should add `pymdownx.highlight` to your `markdown_extensions`, and then use `.doc-contents .highlight` as the CSS selector in case you want to change something about *mkdocstrings'* code blocks specifically.
+
+### FOOTER for page theming.md

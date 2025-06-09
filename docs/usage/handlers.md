@@ -316,3 +316,5 @@ The extension is then responsible, in collaboration with its target handler,
 for mutating the collected data in order to instruct the handler
 to use one of the extension template when rendering particular objects.
 See each handler's docs to see if they support extensions, and how.
+
+### FOOTER for page handlers.md

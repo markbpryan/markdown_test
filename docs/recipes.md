@@ -454,3 +454,5 @@ def my_function():
     """
     pass
 ```
+
+### FOOTER for page recipes.md
