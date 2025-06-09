@@ -304,3 +304,5 @@ plugins:
 
 [bugtracker]: https://github.com/mkdocstrings/mkdocstrings
 [markdown-katex]: https://gitlab.com/mbarkhau/markdown-katex
+
+### FOOTER for page troubleshooting.md

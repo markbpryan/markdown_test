@@ -349,3 +349,5 @@ plugins:
 - mkdocstrings:
     enable_inventory: false
 ```
+
+### FOOTER for page index.md

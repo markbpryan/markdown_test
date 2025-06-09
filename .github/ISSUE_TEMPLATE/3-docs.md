@@ -14,3 +14,5 @@ assignees: pawamoy
 
 ### Link to the relevant documentation section
 <!-- Add a link to the relevant section of our documentation, or any addition context. -->
+
+### FOOTER for page 3-docs.md

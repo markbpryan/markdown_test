@@ -17,3 +17,5 @@ assignees: pawamoy
 
 ### Additional context
 <!-- Add any other context or screenshots about the feature request here. -->
+
+### FOOTER for page 2-feature.md

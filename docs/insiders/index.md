@@ -164,3 +164,5 @@ Yes. Whether you're an individual or a company, you may use *mkdocstrings Inside
 
 <script src="../js/insiders.js"></script>
 <script>updateInsidersPage('pawamoy');</script>
+
+### FOOTER for page index.md

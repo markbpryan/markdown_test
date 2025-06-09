@@ -82,3 +82,4 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
+### FOOTER for page CODE_OF_CONDUCT.md
